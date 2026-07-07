@@ -1,0 +1,11 @@
+"""Shared dark-theme color palette for the Tkinter GUI."""
+
+BG = "#11151c"
+PANEL = "#1b212b"
+FG = "#e6e6e6"
+MUTED = "#8a93a2"
+GREEN = "#26a269"
+RED = "#e01b24"
+GRAY = "#5c6370"
+ORANGE = "#e08a1b"
+BLUE = "#3584e4"
